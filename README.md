@@ -1,9 +1,4 @@
-### Hi there 👋
+### Studying Android
 
-<!--
-**kmkim2689/kmkim2689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
--->
+* <a href="https://cooperative-floor-0d8.notion.site/Kotlin-Coroutines-24264747e372483b8005477e82cea0fe?pvs=4">Coroutines</a>
+* <a href="[https://cooperative-floor-0d8.notion.site/Kotlin-Coroutines-24264747e372483b8005477e82cea0fe?pvs=4](https://cooperative-floor-0d8.notion.site/Jetpack-Compose-Study-Archives-b3123be6103d46709ba190fdf5247e7c?pvs=4)https://cooperative-floor-0d8.notion.site/Jetpack-Compose-Study-Archives-b3123be6103d46709ba190fdf5247e7c?pvs=4">Jetpack Compose</a>
