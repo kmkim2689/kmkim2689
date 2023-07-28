@@ -1,7 +1,7 @@
 ## Studying Android
 
 ### Android Components
-<a href="https://github.com/kmkim2689/Android-Wiki/wiki">TIL Archives Wiki</a>
+* <a href="https://github.com/kmkim2689/Android-Wiki/wiki">TIL Archives Wiki</a>
 
 ### Currently Interested in...
 * <a href="https://cooperative-floor-0d8.notion.site/Kotlin-Coroutines-24264747e372483b8005477e82cea0fe?pvs=4">Coroutines</a>
